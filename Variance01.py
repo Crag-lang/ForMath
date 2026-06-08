@@ -109,7 +109,7 @@ for group_name, group_info in Data.items():
     s_i = group_info["variance"]
 
     # Formula mapping: n_i * [ σ_i² + (x_bar_i - x_bar)² ]
-    SS_total += n_i * (s_i + (x_bar_i - x_bar) ** 2)
+    SS_total += n_i * (s_i ** 2 + (x_bar_i - x_bar) ** 2)
 
 # 3. Derive final population variance from total sum of squares
 population_variance = SS_total / total_frequency
