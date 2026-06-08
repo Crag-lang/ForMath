@@ -1,37 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bfb9088-aaf8-44c3-b492-93496b2b35f1" name="Changes" comment="" />
+    <list default="true" id="3bfb9088-aaf8-44c3-b492-93496b2b35f1" name="Changes" comment="Second Version">
+      <change beforePath="$PROJECT_DIR$/.idea/ForMath.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ForMath.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variance01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variance01.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Crag-lang&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Crag-lang/ForMath.git&quot;,
+    &quot;accountId&quot;: &quot;295feae2-7f1f-42df-aa79-b64657e87f46&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000364180587615" />
+      <entry key="S2" value="1.1303594675892263" />
+      <entry key="S5" value="1.6708174482489957" />
+      <entry key="S10" value="2.1646779421045657" />
+      <entry key="S30" value="3.4348120235387865" />
+      <entry key="S60" value="6.62049757386895" />
+      <entry key="M2" value="14.237421731797607" />
+      <entry key="M5" value="30.427136978282217" />
+      <entry key="M10" value="41.72635268876812" />
+      <entry key="M15" value="46.67903583185959" />
+      <entry key="M30" value="52.394063331170784" />
+      <entry key="H1" value="55.576794540229585" />
+      <entry key="H2" value="57.25714862715245" />
+      <entry key="H4" value="58.12060815647662" />
+      <entry key="D1" value="58.852314955724125" />
+      <entry key="W1" value="58.97887453887864" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.6997385644389876E-93" />
+      <entry key="S2" value="6.5032365368635576E-24" />
+      <entry key="S5" value="6.210145568608321E-10" />
+      <entry key="S10" value="3.260782620716996E-5" />
+      <entry key="S30" value="0.04975130253045998" />
+      <entry key="S60" value="0.3215343945484544" />
+      <entry key="M2" value="0.8766485121034929" />
+      <entry key="M5" value="1.7523890376592535" />
+      <entry key="M10" value="2.2713279172328664" />
+      <entry key="M15" value="2.486527367514911" />
+      <entry key="M30" value="2.7281006875571694" />
+      <entry key="H1" value="2.8599880898719037" />
+      <entry key="H2" value="2.9289422051333314" />
+      <entry key="H4" value="2.9642034529744676" />
+      <entry key="D1" value="2.9939963297955208" />
+      <entry key="W1" value="2.999141407186804" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9460576467255959" />
+      <entry key="MS500" value="0.9890011610080769" />
+      <entry key="S2" value="1.1202096691006227" />
+      <entry key="S5" value="1.6536069031712093" />
+      <entry key="S10" value="2.1499703150411857" />
+      <entry key="S30" value="3.47196636980047" />
+      <entry key="S60" value="6.916383572025707" />
+      <entry key="M2" value="15.072845102634759" />
+      <entry key="M5" value="32.13736296637464" />
+      <entry key="M10" value="43.967497876985064" />
+      <entry key="M15" value="49.142771346564174" />
+      <entry key="M30" value="55.10922483689919" />
+      <entry key="H1" value="58.42988279005446" />
+      <entry key="H2" value="60.18252726898248" />
+      <entry key="H4" value="61.08300062137356" />
+      <entry key="D1" value="61.84600532848133" />
+      <entry key="W1" value="61.97797213596504" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3Er6r11v7kbMjpibMNdzEvJ1UnU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Variance01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variance02.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/PycharmProjects/ForMath&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
-        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -42,11 +152,90 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780924535517</updated>
-      <workItem from="1780924536637" duration="2000" />
+      <workItem from="1780924536637" duration="13120000" />
+      <workItem from="1780938104119" duration="692000" />
+      <workItem from="1780941823982" duration="1000" />
+      <workItem from="1780942913701" duration="1807000" />
+      <workItem from="1780944797932" duration="764000" />
+      <workItem from="1780947041884" duration="387000" />
     </task>
+    <task id="LOCAL-00001" summary="First Version">
+      <option name="closed" value="true" />
+      <created>1780934529610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780934529610</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Version">
+      <option name="closed" value="true" />
+      <created>1780936909268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780936909268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Version">
+      <option name="closed" value="true" />
+      <created>1780936956028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780936956028</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Second Version">
+      <option name="closed" value="true" />
+      <created>1780937003304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780937003304</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second Version">
+      <option name="closed" value="true" />
+      <created>1780937037606</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780937037606</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" Version" />
+    <MESSAGE value="First Version" />
+    <MESSAGE value="Second Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Version" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ForMath$Variance02.coverage" NAME="Variance02 Coverage Results" MODIFIED="1780935876786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ForMath$Variance01.coverage" NAME="Variance01 Coverage Results" MODIFIED="1780943195374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
